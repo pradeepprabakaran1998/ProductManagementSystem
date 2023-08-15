@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T17:37:43.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ByiIXafWfTFE7JcsmmJh" version="20.6.0" type="github"><diagram name="Page-1" id="2YBvvXClWsGukQMizWep">7ZlLc5swEMc/DcfMGAh+HONHm0MzTePO9CzDxqiVERHCj376rowEFpjETULTpj4Z/bV6oP1pdxk7/mS1/ShIGt/wCJjj9aKt408dz3O9YIQ/StlppdfvF8pS0EhrlTCnP8EYajWnEWSWoeScSZraYsiTBEJpaUQIvrHN7jmzV03JEhrCPCSsqX6jkYwLdRj0Kv0a6DI2K7s93bMixlgLWUwivjmQ/JnjTwTnsnhabSfA1OmZcynGfWjpLTcmIJGnDCA3I7Fb+9v1wEsf+PbL9O56dqFnWROW6xd2/KvPi+/qKItdy505CnyBVD3mK/aJ3gOjCbbGKQi6AgkCe5iWbyttvImphHlKQjV0g5SgFssVw5aLj+g3SXCIGt7DdiR4+pWIJUgthJwxkmZ0sd+GUgSEucjoGu4gK3hRKs+lWnpScqDElAuJSiYFrqFEIJncQIaP4wQ2swh9bV5wMHa8/kOu3DGGsqOU8FwO+tmCH4yujLxJzahlgjUISZGylqH4gmuIrLE9y0DwPIkaFoPpfqK9R3EB2Lai4pYA4tUFjs4SOzTRAy41sju7uakuQIl5fAC/b0SiL92ynLniEh80mr+BqdfEtE7nAVMpR2fvtxCMnWBagxSRiPmSJ4QdYnoUH7kHca64z5rgn9k6zlZ7oGkHLrCAGxwDrsmbO+qKN7/BW0SzlMgwfow7c/BXjC4T1BZcSr7CjgxBklcqGyn+cFblwSQyyoLx8Icx0ylwaJGCcNlUGAL8aent0rM6SmovFq1i22rCZ7gNU66JyI9e0KZ7BTAiMVLbafmIt/TQW3VzKywu3ONcmBkynosQ9KCay8tdPJ+Cy3PUeddRJ7DTnOudFnaGXUWd4FyM/ZfoPk5p+QHx11Rj/XNc/Hfgao80p1ZjwxOrsXp2fjXeBq9bjR2pvP5spaWlonp5+qvnyeKr30nx5Y5sDFz/tOoLz5bsDsz0/W9fZ3g8DVfEFDO+amk3bCAlQOYieSlQPIVEJU6SxXsi3KL7zYr6U1Hrv2mdX0fN6wX2FMW+Xo7ayEbNhLZOURs1UEPHsgXBwPOuo9epSF12g9SgFr36HUWvGlJmnU6RMun3HL7sL/W3ypQ11jy/o/BVy5Se/yLWsFn9+1CYV3/i+LNf</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-08-15T17:54:00.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="x0_ojF_1bQHCe4oCnUFB" version="20.6.0" type="github">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="1038" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kPuJLaiN40PrFuRDUrh9-1" value="User (Initiator)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPuJLaiN40PrFuRDUrh9-2" value="Application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kPuJLaiN40PrFuRDUrh9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kPuJLaiN40PrFuRDUrh9-3" target="kPuJLaiN40PrFuRDUrh9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPuJLaiN40PrFuRDUrh9-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="125" y="120" width="10" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="kPuJLaiN40PrFuRDUrh9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kPuJLaiN40PrFuRDUrh9-6" target="kPuJLaiN40PrFuRDUrh9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kPuJLaiN40PrFuRDUrh9-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="10" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="kPuJLaiN40PrFuRDUrh9-10" value="Login" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0;entryY=0.077;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kPuJLaiN40PrFuRDUrh9-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="135" y="140" as="sourcePoint" />
+            <mxPoint x="305" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kPuJLaiN40PrFuRDUrh9-11" value="Dashboard" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=-0.16;exitY=0.209;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kPuJLaiN40PrFuRDUrh9-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="285" y="180" as="sourcePoint" />
+            <mxPoint x="135" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kPuJLaiN40PrFuRDUrh9-13" value="Create a new trip" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0;entryY=0.343;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.38;exitY=0.364;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kPuJLaiN40PrFuRDUrh9-3" target="kPuJLaiN40PrFuRDUrh9-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="130" y="216" as="sourcePoint" />
+            <mxPoint x="215" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kPuJLaiN40PrFuRDUrh9-14" value="Trip Details Form" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=-0.24;exitY=0.486;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kPuJLaiN40PrFuRDUrh9-6" target="kPuJLaiN40PrFuRDUrh9-3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="380" y="290" as="sourcePoint" />
+            <mxPoint x="140" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kPuJLaiN40PrFuRDUrh9-15" value="Submit trip Info" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=-0.24;entryY=0.643;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kPuJLaiN40PrFuRDUrh9-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="135" y="300" as="sourcePoint" />
+            <mxPoint x="215" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kPuJLaiN40PrFuRDUrh9-16" value="Chatroom created with only initiator in it" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=1.06;entryY=0.951;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.24;exitY=0.917;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kPuJLaiN40PrFuRDUrh9-6" target="kPuJLaiN40PrFuRDUrh9-3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="410" y="340" as="sourcePoint" />
+            <mxPoint x="490" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kPuJLaiN40PrFuRDUrh9-17" value="Trip is open for other participants to join" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.9;entryY=0.812;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kPuJLaiN40PrFuRDUrh9-3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="370" y="339" as="sourcePoint" />
+            <mxPoint x="140" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
